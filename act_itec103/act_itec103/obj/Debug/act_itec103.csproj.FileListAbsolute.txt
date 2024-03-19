@@ -1,0 +1,10 @@
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\act_itec103\act_itec103\bin\Debug\act_itec103.exe.config
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\act_itec103\act_itec103\bin\Debug\act_itec103.exe
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\act_itec103\act_itec103\bin\Debug\act_itec103.pdb
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\act_itec103\act_itec103\obj\Debug\act_itec103.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\act_itec103\act_itec103\obj\Debug\act_itec103.MainForm.resources
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\act_itec103\act_itec103\obj\Debug\act_itec103.csproj.GenerateResource.Cache
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\act_itec103\act_itec103\obj\Debug\act_itec103.exe
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\act_itec103\act_itec103\obj\Debug\act_itec103.pdb
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\act_itec103\act_itec103\obj\Debug\act_itec103.Form1.resources
+C:\Users\LENOVO T470\Documents\SharpDevelop Projects\act_itec103\act_itec103\obj\Debug\act_itec103.Form2.resources
